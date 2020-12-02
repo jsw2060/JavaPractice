@@ -26,6 +26,7 @@ public class MouseEventTest extends Frame{
 	}
 	
 	public static void main(String[] args) {
+		@SuppressWarnings("unused")
 		MouseEventTest mainWin = new MouseEventTest("MouseEventTest");
 	}	// main메서드의 끝
 	
